@@ -1,0 +1,15 @@
+2023
+5.79
+
+Data:03/2023 | Preco Total:71.15, Preco Arthur:40.00
+Data:04/2023 | Preco Total:71.15, Preco Arthur:40.91
+Data:05/2023 | Preco Total:102.78, Preco Arthur:59.10
+Data:06/2023 | Preco Total:39.53, Preco Arthur:22.73
+Data:08/2023 | Preco Total:86.97, Preco Arthur:50.00
+Data:09/2023 | Preco Total:70.56, Preco Arthur:28.81, Preco Guilherme:40.00
+Data:10/2023 | Preco Total:132.30, Preco Arthur:54.02, Preco Guilherme:75.00
+Data:11/2023 | Preco Total:141.12, Preco Arthur:57.62, Preco Guilherme:80.00
+Data:11/2023 | Preco Total:123.48, Preco Arthur:50.42, Preco Guilherme:70.00
+Data:12/2023 | Preco Total:79.38, Preco Arthur:32.41, Preco Guilherme:45.00
+Data:12/2023 | Preco Total:61.74, Preco Arthur:25.21, Preco Guilherme:35.00
+Data:04/2024 | Preco Total:70.56, Preco Arthur:28.81, Preco Guilherme:40.00
